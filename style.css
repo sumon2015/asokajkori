@@ -1,0 +1,43 @@
+*{
+	margin:0;
+	border:none;
+}
+/*
+.top_menu{
+	height: auto;
+	background:gray;
+	margin: 0;
+	display:block;
+	text-align: center;
+	}
+
+
+ul{
+list-style:none;
+margin:0;
+
+}
+
+ul li{
+	text-align:center;
+	padding:10px;
+	display:block;
+	font-size:20PX;
+	color: white;
+	border-bottom:1px solid red;
+}
+
+ul li a{
+	text-decoration:none;
+	color: white;
+}
+
+ul li:hover a{
+	color:red;
+	text-decoration:none;
+}
+
+ul>li>.active{
+color:red !important;
+}
+*/
